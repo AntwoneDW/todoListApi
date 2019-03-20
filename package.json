@@ -1,0 +1,24 @@
+{
+  "name": "todolistapi",
+  "version": "1.0.0",
+  "description": "RESful todolistApi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Hello Antwone\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AntwoneDW/todoListApi.git"
+  },
+  "keywords": [
+    "RESTful",
+    "API",
+    "Tutorial"
+  ],
+  "author": "antwone walters",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AntwoneDW/todoListApi/issues"
+  },
+  "homepage": "https://github.com/AntwoneDW/todoListApi#readme"
+}
