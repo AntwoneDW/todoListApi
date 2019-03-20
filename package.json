@@ -4,7 +4,8 @@
   "description": "RESful todolistApi",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Hello Antwone\" && exit 1"
+    "test": "echo \"Hello Antwone\" && exit 1",
+    "start": "nodemon server.js"
   },
   "repository": {
     "type": "git",
@@ -20,5 +21,12 @@
   "bugs": {
     "url": "https://github.com/AntwoneDW/todoListApi/issues"
   },
-  "homepage": "https://github.com/AntwoneDW/todoListApi#readme"
+  "homepage": "https://github.com/AntwoneDW/todoListApi#readme",
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongoose": "^5.4.19"
+  }
 }
